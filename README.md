@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## LICENSE
 
 MIT License
@@ -21,3 +22,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# jerod-blog
+A minimal site and blog built with Gatsby and @greglobinski's gatsby-starter-kit: https://github.com/greglobinski/gatsby-starter-kit
+>>>>>>> ef41293d6c0ae529dc52647016e9a2ca10e57121
