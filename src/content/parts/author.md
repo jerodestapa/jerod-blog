@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Greg Lobinski** - I'm a front-end web developer. Follow me at [@greglobinski](https://twitter.com/greglobinski) if you want to be informed about new articles. I'm open to any suggestions from you. Do not hesitate to tell me what you think.
+**Jerod Estapa** - I'm a full-stack and mobile developer, writer, and . Follow me at [@jerodestapa](https://twitter.com/jerodestapa) if you want to be informed about new articles or to get odd opinions about the world, the people in it, and our shared, brief, bizarre experience together.

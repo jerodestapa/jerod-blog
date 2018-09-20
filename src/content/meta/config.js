@@ -1,21 +1,21 @@
 const base = {
-  name: 'Gatsby Starter Kit',
-  url: 'https://github.com/greglobinski/gatsby-starter-kit'
+  name: 'Jerod Estapa',
+  url: 'https://jerodestapa.com'
 };
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - a series of GatsbyJS starters`,
+  siteTitle: `${base.name} - Programmer. Writer. Analyst. Funny.`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a series starters: Minimal, Equipped, Themed, Website, Blog.`,
+  } - a blog & portfolio site`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'a series of starters for GatsbyJS',
+  headerSubTitle: 'Welcome',
 
   /* url */
   siteUrl: base.url

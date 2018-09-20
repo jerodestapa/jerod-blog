@@ -3,6 +3,15 @@ title: About
 categories: ['main']
 ---
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Hello! Welcome, and as I said before, it's too late. You're here, I am now in your headspace, and there's no escape.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Just kidding.
+
+It's really not that bad, and honestly, feel free to leave whenever you want. But, feel free to stay, too. Basically, just do whatever you want.
+
+So, right. Me. Well, I'm an longstanding autodidact, which as you may know, means I worship shellfish and don't believe in communicable diseases.
+
+That's actually very wrong. What it really means is I'm ... self-taught.
+
+I know. I can barely live with myself.
+

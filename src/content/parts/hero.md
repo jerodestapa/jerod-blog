@@ -2,7 +2,7 @@
 name: hero
 ---
 
-# Jerod Estapa's Blog & Portfolio
+# Jerod's Blog & Portfolio
 
 If you're here, and you can read this, it's too late ...
 
