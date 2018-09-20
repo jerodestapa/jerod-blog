@@ -4,6 +4,6 @@ name: hero
 
 # Jerod's Blog & Portfolio
 
-If you're here, and you can read this, it's too late ...
+Web & mobile development, writing for fun & profit, and other stuff.
 
 [Who am I?](./about)
