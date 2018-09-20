@@ -2,8 +2,8 @@
 name: hero
 ---
 
-# Welcome to GatsbyJS Starter Kit
+# Jerod Estapa's Blog & Portfolio
 
-It's a series of starters for GatsbyJS: Minimal, Equipped, Themed, Website and Blog. It's 5 in 1!
+If you're here, and you can read this, it's too late ...
 
-[more](./about)
+[Who am I?](./about)
