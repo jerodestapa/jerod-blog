@@ -5,7 +5,7 @@ const base = {
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - Developer. Writer. Data Geek. Flaneur.`,
+  siteTitle: `${base.name} - Developer. Writer. Data Geek.`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
@@ -15,7 +15,7 @@ const config = {
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'Developer. Writer. Data Geek. Flaneur.',
+  headerSubTitle: 'Developer. Writer. Data Geek.',
 
   /* url */
   siteUrl: base.url
