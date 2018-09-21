@@ -2,8 +2,8 @@
 name: hero
 ---
 
-# Jerod's Blog & Portfolio
+# Hi, I'm Jerod.
 
-Web & mobile development, writing for fun & profit, and other stuff.
+I build apps for web & mobile, fiddle with machine learning and data engineering from time to time, and write tech-focused case studies and white papers.
 
-[Who am I?](./about)
+[More](./about)
