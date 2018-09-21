@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import { injectGlobal } from 'emotion';
 
 import '@react-website-themes/default/styles/variables';
 import '@react-website-themes/default/styles/global';
@@ -50,6 +51,14 @@ const IndexPage = props => {
     </Layout>
   );
 };
+
+/* Overrides Style Variables */
+injectGlobal`
+  :root {
+    --linkColor: #23BA17;
+    --hoverLinkColor: #83EA7B;
+  }
+`;
 
 export default IndexPage;
 
