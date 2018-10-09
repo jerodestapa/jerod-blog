@@ -1,7 +1,7 @@
 ---
 title: "Can you rebase?"
 subTitle: And, other terrifying things you see on Github
-categories: ["github"]["open source"]
+categories: ["github"]
 ---
 
 If you've ever contributed to an open source project, you're eventually going to be asked to do something with [git](https://git-scm.com/) that you may not know how to do. You may not even know what they're talking about.
