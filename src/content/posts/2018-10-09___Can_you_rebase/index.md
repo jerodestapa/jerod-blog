@@ -12,11 +12,13 @@ The conversation might go something like this:
 Hey, great PR! Thanks! Can you rebase so we can merge this in?
 ```
 
+
 To which, you reply:
 
 ```
 Sure, no problem!
 ```
+
 
 Meanwhile, you're dying inside. *Rebase? What the hell is a rebase and how do I not know that and I'm an imposter and why am I doing this I'm a fake!!*
 
