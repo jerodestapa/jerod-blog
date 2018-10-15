@@ -64,7 +64,7 @@ injectGlobal`
   h1 {
     color: #000;
   }
-  .css-1tbvkei h1 {
+  .css-zfyddb h1 {
     color: #23BA17;
   }
 `;
