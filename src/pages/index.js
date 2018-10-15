@@ -68,7 +68,7 @@ injectGlobal`
     color: #2E973A;
   }
   .css-1s1btau a {
-    color: #2E973A;
+    background: #2E973A;
   }
 `;
 
