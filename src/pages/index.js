@@ -57,6 +57,7 @@ injectGlobal`
   :root {
     --linkColor: #23BA17;
     --hoverLinkColor: #3DB04C;
+    --textColor: #000;
   }
 `;
 
