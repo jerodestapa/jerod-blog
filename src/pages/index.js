@@ -64,7 +64,7 @@ injectGlobal`
   h1 {
     color: #000;
   }
-  h1 a:link {
+  .css-1tbvkei h1 a {
     color: #23BA17;
   }
 `;
