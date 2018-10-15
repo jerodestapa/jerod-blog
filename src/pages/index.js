@@ -64,6 +64,9 @@ injectGlobal`
   h1 {
     color: #000;
   }
+  h1 a {
+    color: #23BA17;
+  }
 `;
 
 export default IndexPage;
