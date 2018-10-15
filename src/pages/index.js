@@ -55,7 +55,7 @@ const IndexPage = props => {
 /* Overrides Style Variables */
 injectGlobal`
   :root {
-    --linkColor: #23BA17;
+    --linkColor: #2E973A;
     --hoverLinkColor: #3DB04C;
     --textColor: #000;
     --lightTextColor: #000;
@@ -65,7 +65,10 @@ injectGlobal`
     color: #000;
   }
   .css-zfyddb h1 {
-    color: #23BA17;
+    color: #2E973A;
+  }
+  .css-1s1btau a {
+    color: #2E973A;
   }
 `;
 
