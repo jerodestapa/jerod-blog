@@ -59,6 +59,7 @@ injectGlobal`
     --hoverLinkColor: #3DB04C;
     --textColor: #000;
     --lightTextColor: #000;
+    --superLightTextColor: #000;
   }
 `;
 
