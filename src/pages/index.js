@@ -61,6 +61,9 @@ injectGlobal`
     --lightTextColor: #000;
     --superLightTextColor: #000;
   }
+  h1 {
+    color: #000;
+  }
 `;
 
 export default IndexPage;
