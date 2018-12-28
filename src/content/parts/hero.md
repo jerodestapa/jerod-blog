@@ -4,6 +4,6 @@ name: hero
 
 # Hi, I'm Jerod.
 
-I write books, case studies, and white papers.
+I write, program, and write about programming.
 
 [More](./about)
