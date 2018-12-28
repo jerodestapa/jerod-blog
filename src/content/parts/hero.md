@@ -4,6 +4,6 @@ name: hero
 
 # Hi, I'm Jerod.
 
-I write, program, and write about programming.
+I'm a web developer and tech writer.
 
 [More](./about)
