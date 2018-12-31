@@ -72,4 +72,4 @@ yarn-error.log
 .next
 
 # Lock files
-.package-lock.json
+package-lock.json
