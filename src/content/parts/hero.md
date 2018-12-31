@@ -4,6 +4,6 @@ name: hero
 
 # Hi, I'm Jerod.
 
-I'm a web developer and tech writer.
+I'm a developer & tech writer.
 
 [More](./about)
