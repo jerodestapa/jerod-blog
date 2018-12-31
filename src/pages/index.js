@@ -68,7 +68,7 @@ injectGlobal`
     color: #2E973A;
   }
   .css-zfyddb h1 {
-    color: #EBE9CF;
+    color: #2E973A;
   }
   .css-1s1btau a {
     background: #2E973A;
