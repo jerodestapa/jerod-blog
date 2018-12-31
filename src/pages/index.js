@@ -58,8 +58,8 @@ injectGlobal`
     --linkColor: #2E973A;
     --hoverLinkColor: #3DB04C;
     --textColor: #EBE9CF;
-    --lightTextColor: #000;
-    --superLightTextColor: #000;
+    --lightTextColor: #EBE9CF;
+    --superLightTextColor: #EBE9CF;
   }
   html {
     background: #242B34;
@@ -75,6 +75,7 @@ injectGlobal`
   }
   .css-13an6nb {
     background: #242B34;
+    text-color: #EBE9CF;
   }
 `;
 
