@@ -57,7 +57,7 @@ injectGlobal`
   :root {
     --linkColor: #2E973A;
     --hoverLinkColor: #3DB04C;
-    --textColor: #000;
+    --textColor: #EBE9CF;
     --lightTextColor: #000;
     --superLightTextColor: #000;
   }
@@ -72,6 +72,9 @@ injectGlobal`
   }
   .css-1s1btau a {
     background: #2E973A;
+  }
+  .css-13an6nb {
+    background: #242B34;
   }
 `;
 
