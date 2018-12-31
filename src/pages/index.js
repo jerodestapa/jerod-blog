@@ -65,10 +65,10 @@ injectGlobal`
     background: #242B34;
   }
   h1 {
-    color: #000;
+    color: #2E973A;
   }
   .css-zfyddb h1 {
-    color: #2E973A;
+    color: #EBE9CF;
   }
   .css-1s1btau a {
     background: #2E973A;
