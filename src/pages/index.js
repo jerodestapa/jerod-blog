@@ -60,7 +60,9 @@ injectGlobal`
     --textColor: #000;
     --lightTextColor: #000;
     --superLightTextColor: #000;
-    --background-color: #090909;
+  }
+  html {
+    backgroundColor: #090909;
   }
   h1 {
     color: #000;
