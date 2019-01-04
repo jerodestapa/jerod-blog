@@ -55,27 +55,27 @@ const IndexPage = props => {
 /* Overrides Style Variables */
 injectGlobal`
   :root {
-    --linkColor: #2E973A;
+    --linkColor: #2669D0;
     --hoverLinkColor: #3DB04C;
-    --textColor: #EBE9CF;
-    --lightTextColor: #EBE9CF;
-    --superLightTextColor: #EBE9CF;
+    --textColor: #F2FAF9;
+    --lightTextColor: #F2FAF9;
+    --superLightTextColor: #F2FAF9;
   }
   html {
     background: #242B34;
   }
   h1 {
-    color: #2E973A;
+    color: #2669D0;
   }
   .css-zfyddb h1 {
-    color: #2E973A;
+    color: #2669D0;
   }
   .css-1s1btau a {
-    background: #2E973A;
+    background: #2669D0;
   }
   .css-13an6nb {
     background: #242B34;
-    text-color: #EBE9CF;
+    text-color: #F2FAF9;
   }
 `;
 
