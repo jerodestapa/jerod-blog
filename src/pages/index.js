@@ -68,7 +68,7 @@ injectGlobal`
     color: #17A7D1;
   }
   h3 {
-    color: #A9B3BA;
+    color: #8F979C;
   }
   .css-zfyddb h1 {
     color: #17A7D1;
