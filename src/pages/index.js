@@ -65,13 +65,13 @@ injectGlobal`
     background: #242B34;
   }
   h1 {
-    color: #2669D0;
+    color: #17A7D1;
   }
   .css-zfyddb h1 {
-    color: #2669D0;
+    color: #17A7D1;
   }
   .css-1s1btau a {
-    background: #2669D0;
+    background: #1C438C;
   }
   .css-13an6nb {
     background: #242B34;
