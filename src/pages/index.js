@@ -56,7 +56,7 @@ const IndexPage = props => {
 injectGlobal`
   :root {
     --linkColor: #2669D0;
-    --hoverLinkColor: #3DB04C;
+    --hoverLinkColor: #17A7D1;
     --textColor: #F2FAF9;
     --lightTextColor: #F2FAF9;
     --superLightTextColor: #F2FAF9;
@@ -71,7 +71,7 @@ injectGlobal`
     color: #17A7D1;
   }
   .css-1s1btau a {
-    background: #1C438C;
+    background: #0A5FA2;
   }
   .css-13an6nb {
     background: #242B34;
