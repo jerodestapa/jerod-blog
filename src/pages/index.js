@@ -68,6 +68,7 @@ injectGlobal`
   }
   h1 {
     color: #17A7D1;
+    fontFamily: \"Open Sans\", sans-serif;
   }
   h3 {
     color: #8F979C;
