@@ -3,6 +3,8 @@ title: Hello.
 categories: ['main']
 ---
 
-### Who am I?
-My name's Jerod Estapa. I write books, case studies, white papers, and conversion copy.
+### I'm Jerod.
+I build things for the web, mostly with JavaScript. I also write blog posts, case studies, and white papers for startups and SaaS companies.
+
+
 
