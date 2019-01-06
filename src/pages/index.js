@@ -77,7 +77,7 @@ injectGlobal`
     color: #17A7D1;
   }
   .css-1s1btau a {
-    background: #71C1AF;
+    background: #65AF9E;
   }
   .css-1s1btau p {
     fontSize: 16px;
