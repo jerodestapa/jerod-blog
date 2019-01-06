@@ -77,11 +77,14 @@ injectGlobal`
     color: #17A7D1;
   }
   .css-1s1btau a {
-    background: #63DBC0;
+    background: #71C1AF;
   }
   .css-1s1btau p {
     fontSize: 16px;
     fontWeight: 200;
+    letterSpacing: .05em;
+    marginBottom: 15px;
+    font-family: 'Helvetica Neue', Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .css-13an6nb {
     background: #242B34;
