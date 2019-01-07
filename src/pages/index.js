@@ -73,8 +73,15 @@ injectGlobal`
     font-family: 'Raleway', sans-serif;
     font-weight: 200;
   }
+  h2 {
+    color: #1BCFA5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+  }
   h3 {
     color: #1BCFA5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
   }
   .css-zfyddb h1 {
     color: #17A7D1;
