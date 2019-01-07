@@ -21,5 +21,5 @@ Away from work, I hang out with my wife and three daughters, who tolerate me whe
 
 We cook, we laugh, and every once in a while, I get to pick the movie.
 
-### Currenty:
+### Currently:
 Right now, I'm looking for my next project. Probably not a shocker at this point, but I'm pretty big on React and Redux. Express, too, though static frameworks like Gatsby.js are really coming on and proving their mettle as alternatives to traditional fullstack development. Look no further than this site for proof of that (built in a fervor with Gatsby).
