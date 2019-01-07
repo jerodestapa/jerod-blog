@@ -61,7 +61,7 @@ injectGlobal`
     --textColor: #F2FAF9;
     --lightTextColor: #F2FAF9;
     --superLightTextColor: #F2FAF9;
-    --fontFamily: Montserrat-, 'Helvetica Neue', Helvetica, sans-serif;
+    --fontFamily: \"Open Sans\", sans-serif;
   }
   html {
     background: #242B34;
