@@ -4,7 +4,7 @@ categories: ['main']
 ---
 
 ### I'm Jerod.
-I build things for the web, mostly with JavaScript. I also write blog posts, case studies, and white papers for startups and SaaS companies.
+I build responsive fullstack web apps, mostly with JavaScript. I also write blog posts, case studies, and white papers for startups and SaaS companies.
 
 I got into programming as a hobby while in college and have been hacking away in some capacity ever since.
 
