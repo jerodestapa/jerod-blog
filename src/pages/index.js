@@ -82,11 +82,10 @@ injectGlobal`
   .css-1s1btau a {
     background: #1BCFA5;
   }
-  .css-1s1btau p {
+  p {
     font-size: 16px;
     font-weight: 200;
     letter-spacing: .05em;
-    margin-bottom: 15px;
   }
   .css-13an6nb {
     background: #242B34;
