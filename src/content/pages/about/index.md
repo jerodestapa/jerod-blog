@@ -14,7 +14,12 @@ Honestly. JS is everywhere and has the most interesting, active ecosystem on the
 Also, JS people are awesome.
 
 ### Python's great, too.
-The first backend framework I learned was Django and getting into Python is still one of the best things I've ever done. Again, great community, all-purpose features, friendly to functional programming, and if you want to do some machine learning or build a web scraper, there's nothing better.
+The first backend framework I learned was Django, and getting into Python is still one of the best things I've ever done. Another awesome community, all-purpose abilities, friendly to functional programming, and if you want to do some machine learning or build a web scraper, there's nothing that will give you everything you need AND let you iterate like nobody's business like Python.
+
+### When not programming?
+Away from work, I hang out with my wife and three daughters, who tolerate me when they can. ;)
+
+We cook, we laugh, and every once in a while, I get to pick the movie.
 
 ### Currenty:
-Right now, I'm looking for my next project. My preferred stack is for big apps is React/Redux and Express, though static frameworks like Gatsby.js are really coming on and proving their mettle as alternatives to traditional fullstack development. Look no further than this site for proof that (built in a fervor with Gatsby).
+Right now, I'm looking for my next project. Probably not a shocker at this point, but I'm pretty big on React and Redux. Express, too, though static frameworks like Gatsby.js are really coming on and proving their mettle as alternatives to traditional fullstack development. Look no further than this site for proof of that (built in a fervor with Gatsby).
