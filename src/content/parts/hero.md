@@ -4,6 +4,6 @@ name: hero
 
 # Hi, I'm Jerod.
 
-I build things for the web & write stuff for startups and agencies.
+I build things for the web. I also write.
 
 [More](./about)
