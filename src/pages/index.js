@@ -71,7 +71,7 @@ injectGlobal`
     fontFamily: \"Open Sans\", sans-serif;
   }
   h3 {
-    color: #8F979C;
+    color: #1BCFA5;
   }
   .css-zfyddb h1 {
     color: #17A7D1;
