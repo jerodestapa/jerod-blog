@@ -54,6 +54,7 @@ const IndexPage = props => {
 
 /* Overrides Style Variables */
 /*     --fontFamily: \"Open Sans\", sans-serif; */
+/*     fontFamily: 'Helvetica Neue', Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
 injectGlobal`
   :root {
     --linkColor: #2669D0;
@@ -61,7 +62,7 @@ injectGlobal`
     --textColor: #F2FAF9;
     --lightTextColor: #F2FAF9;
     --superLightTextColor: #F2FAF9;
-    --fontFamily: "Raleway", sans-serif;
+    --fontFamily: 'Raleway', sans-serif;
   }
   html {
     background: #242B34;
@@ -83,7 +84,6 @@ injectGlobal`
     fontWeight: 200;
     letterSpacing: .05em;
     marginBottom: 15px;
-    fontFamily: 'Helvetica Neue', Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .css-13an6nb {
     background: #242B34;
