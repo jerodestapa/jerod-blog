@@ -70,6 +70,8 @@ injectGlobal`
   }
   h1 {
     color: #17A7D1;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
   }
   h3 {
     color: #1BCFA5;
@@ -81,10 +83,10 @@ injectGlobal`
     background: #1BCFA5;
   }
   .css-1s1btau p {
-    fontSize: 16px;
-    fontWeight: 200;
-    letterSpacing: .05em;
-    marginBottom: 15px;
+    font-size: 16px;
+    font-weight: 200;
+    letter-spacing: .05em;
+    margin-bottom: 15px;
   }
   .css-13an6nb {
     background: #242B34;
