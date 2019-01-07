@@ -61,7 +61,7 @@ injectGlobal`
     --textColor: #F2FAF9;
     --lightTextColor: #F2FAF9;
     --superLightTextColor: #F2FAF9;
-    --fontFamily: \"Open Sans\", sans-serif;
+    --fontFamily: "Raleway", sans-serif;
   }
   html {
     background: #242B34;

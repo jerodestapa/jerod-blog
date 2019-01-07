@@ -18,6 +18,7 @@ export default class HTML extends React.Component {
             as="font"
             crossOrigin="anonymous"
           />
+          <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
