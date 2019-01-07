@@ -84,7 +84,7 @@ injectGlobal`
     fontWeight: 200;
     letterSpacing: .05em;
     marginBottom: 15px;
-    font-family: 'Helvetica Neue', Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    fontFamily: 'Helvetica Neue', Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .css-13an6nb {
     background: #242B34;
