@@ -85,6 +85,7 @@ injectGlobal`
   }
   .css-zfyddb h1 {
     color: #17A7D1;
+    font-weight: 300;
   }
   .css-1s1btau a {
     background: #1BCFA5;
