@@ -71,7 +71,7 @@ injectGlobal`
   h1 {
     color: #17A7D1;
     font-family: 'Raleway', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
   }
   h2 {
     color: #1BCFA5;
@@ -88,6 +88,7 @@ injectGlobal`
   }
   .css-1s1btau a {
     background: #1BCFA5;
+    font-weight: 300;
   }
   p {
     font-size: 16px;
