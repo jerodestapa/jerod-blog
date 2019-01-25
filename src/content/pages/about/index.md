@@ -22,4 +22,4 @@ Away from work, I hang out with my wife and three daughters, who tolerate my lov
 We cook, we laugh, and every once in a while, I get to pick the movie (JK, that never happens).
 
 ### Currently:
-Right now, I'm looking for my next project. Probably not a shocker at this point, but I'm pretty big on React and Redux. Express, too, though static frameworks like Gatsby.js are really coming on and proving their mettle as alternatives to traditional fullstack development. Look no further than this site for proof of that (built in a fervor with Gatsby).
+Right now, I'm looking for my next project. Not surprisingly, any kind of frontend work involving React or Vue would be a kick. For backend stuff or anything related to automation or machine learning, refer to the Python section above. Did I mention I like Python?
