@@ -14,7 +14,7 @@ Honestly. JS is everywhere and has the most interesting, active ecosystem on the
 Also, JS people are awesome.
 
 ### Python's great, too.
-The first backend framework I learned was Django, and getting into Python is still one of the best things I've ever done. Python has an awesome community of developers, data scientists, and academics. You can also build just about anything with it, it's friendly to functional programming, and if you want to do some machine learning or build a web scraper, it's super easy and fast to get going.
+The first backend framework I learned was Django, and getting into Python is still one of the best things I've ever done. Python has an awesome community of developers, data scientists, and academics. You can also build just about anything with it, it's agnostic towards different programming paradigms, and if you want to do some machine learning or automate pretty much anything, there's nothing that will get you up and running faster (just my humble opinion, folks).
 
 ### When not programming?
 Away from work, I hang out with my wife and three daughters, who tolerate me when they can. ;)
