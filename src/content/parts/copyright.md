@@ -2,4 +2,4 @@
 name: copyrightNote
 ---
 
-Copyright 2018 | Jerod Estapa
+Copyright 2019 | Jerod Estapa
