@@ -9,7 +9,7 @@ const config = {
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } - a blog & portfolio site`,
+  }`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 

@@ -4,22 +4,13 @@ categories: ['main']
 ---
 
 ### I'm Jerod.
-I build responsive fullstack web apps, mostly with JavaScript. I also write blog posts, case studies, and white papers for startups and SaaS companies.
+I'm a full-stack web developer, technical writer, and data analyst.
 
 I got into programming as a hobby while in college and have been hacking away in some capacity ever since.
 
-### I love JavaScript.
-Honestly. JS is everywhere and has the most interesting, active ecosystem on the planet. It was the first language I learned, is ideal for composition (big fan), and can increasingly be used to build just about anything.
-
-Also, JS people are awesome.
-
-### Python's great, too.
-The first backend framework I learned was Django, and getting into Python is still one of the best things I've ever done. Python has an awesome community of developers, data scientists, and academics. You can also build just about anything with it, it's agnostic towards different programming paradigms, and if you want to do some machine learning or automate pretty much anything, there's nothing that will get you up and running faster (just my humble opinion, folks).
+### Tooling
+My weapons of choice are Python and JavaScript, but I'm always looking to learn something new. 
 
 ### When not programming?
-Away from work, I hang out with my wife and three daughters, who tolerate my love of sci-fi and penchant for philosophical ramblings with grace and equanimity. ;)
+Away from work, I love to cook and hang out with my wife and three daughters, who tolerate my love of sci-fi and soccer with patience and understanding.
 
-We cook, we laugh, and every once in a while, I get to pick the movie (JK, that never happens).
-
-### Currently:
-Right now, I'm looking for my next project. Of course, any kind of frontend work or mobile development involving React, Angular, Vue, React Native or Ionic would be a kick. I'd also love the chance to learn more about Elm!
